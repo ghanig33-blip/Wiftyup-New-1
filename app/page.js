@@ -237,18 +237,4 @@ const styles = {
     marginTop: "25px",
     fontSize: "13px",
   },
-};if (error) {
-  setMessage(error.message);
-} else {
-  setMessage('Login successful!');
-  // Yahan redirect add karein:
-  window.location.href = '/'; 
-}
 
-if (error) {
-  setMessage(error.message);
-} else {
-  setMessage('Login successful!');
-  // Yahan redirect add karein:
-  window.location.href = '/'; 
-}
